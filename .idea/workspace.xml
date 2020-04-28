@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e0a6f88-b9b9-4cfb-af3f-365e91fdf995" name="Default Changelist" comment="" />
+    <list default="true" id="8e0a6f88-b9b9-4cfb-af3f-365e91fdf995" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/trello/trello-card.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/trello/trello-list.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/useActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/useActions.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +39,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -40,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588039421084</updated>
-      <workItem from="1588039423463" duration="2016000" />
+      <workItem from="1588039423463" duration="3402000" />
     </task>
     <servers />
   </component>
